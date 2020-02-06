@@ -1,6 +1,6 @@
 # Coderbyte Challenge Solution in Go
 
-Solutions to the selected Coderbyte challenges (https://coderbyte.com/challenges) for three different levels
+Solutions to the selected Coderbyte challenges (https://coderbyte.com/challenges)
 
 ## Easy
 TODO
@@ -36,5 +36,5 @@ TODO
 ## Hard
 TODO
 
-##
+## Note
 There can be multiple solutions to a problem. Suggestions and Improvements are always welcome.
